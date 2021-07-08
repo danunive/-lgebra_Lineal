@@ -1,4 +1,4 @@
-# Álgebra Lineal
+# Algebra Lineal
 Conceptos básicos de álgebra lineal en python
 
 Hola,
